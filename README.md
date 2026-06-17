@@ -38,7 +38,7 @@ Install dependencies via pip:
 pip install -r requirements.txt
 ```
 
-## Fix By keegan31 💊
+## Fix By pajarr10 💊
 User Agents Werent Loading (Fixed)  
 Added More User Agents (1.1MB/11507)
 Proxies Might Not Work
@@ -46,7 +46,7 @@ Proxies Might Not Work
 ## Donate 🪙
 BTC
  ```
-bc1qn44sevdnuzna3q4vpa5fm0u9ga2ekx9h3gj93f
+kk
  ```
 ## 🔐 Re-Fined By keegan31
 Added Termux Support 
@@ -56,7 +56,7 @@ Added More Proxies
 
 ## Install Via Terminal 💻
 ```
-git clone https://github.com/keegan31/DDOS-TOOL-V1.git
+git clone https://github.com/pajarr10/DD0S.git
 ```
 
 
